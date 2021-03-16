@@ -1,0 +1,6 @@
+dependencies:
+- name: dependency
+  repository: file://../dependency
+  version: 0.1.0
+digest: sha256:4b8be23d65afad50667bc36c3967defabf60e5ce88a1b1b84bd1fd1e464232b8
+generated: "2021-03-16T18:32:32.770878865Z"
